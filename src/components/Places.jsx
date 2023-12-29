@@ -22,7 +22,7 @@ export default function Places({ title, fallbackText, places, onSelectPlace }) {
                   src={place.image.src}
                   alt={place.image.alt}
                 />
-                <h3 className="font-raleway font-normal text-[0.9rem] absolute bottom-0 right-[1rem] my-4 mx-auto py-[0.15rem] px-[0.35rem] bg-[#feee86] text-stone-500 rounded">
+                <h3 className="font-raleway font-normal text-[0.9rem] absolute bottom-0 right-[1rem] my-4 mx-auto py-[0.15rem] px-[0.35rem] bg-[#433c12] text-[#85ecec] rounded">
                   {place.title}
                 </h3>
               </button>
