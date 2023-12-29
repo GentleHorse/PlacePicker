@@ -8,8 +8,8 @@ Available places are automatically sorted in accordance with a current user loca
 
 ```
 
-### Modal.jsx & Modal-old.jsx
-Reusable dialog wrapper.
+### Modal.jsx & Modal-old.jsx & ProgressBar.jsx
+Reusable dialog wrapper and progress bar.
 
 ### Geolocation
 ```
