@@ -1,7 +1,9 @@
+import Header from "./components/Header.jsx";
+
 function App() {
   return (
     <>
-      <h1>This is place picker project.</h1>
+      <Header />
     </>
   );
 }
